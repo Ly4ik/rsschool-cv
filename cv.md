@@ -10,7 +10,7 @@
 
 ## About me:
 
-Hello! My name is Pavel. I'm 27 years old. And one day I'll be a senior software engineer.<br>
+Hello! My name is Pavel. I'm 28 years old. And one day I'll be a senior software engineer.<br>
 I graduated from the Belarusian National Technical University in 2018 with a specialty in the construction of nuclear power plants.<br>
 Yes, I know how to make an atomic bomb.<br>
 No, you won't be able to run away.<br>
